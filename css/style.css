@@ -3,4 +3,28 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    font-family: lucida handwriting;
+    background-color: white;
+    color:rgb(42, 119, 16);
+}
+
+.arvore {
+    position: fixed;
+    margin-right: 900px;
+    width: 390px;
+    
+}
+
+.cobra {
+    position: fixed;
+    margin-left: 820px;
+    width: 180px;
+    margin-top: 300px;
+}
+
+.folhas {
+    position: fixed;
+    width: 350px;
+    margin-left: 980px;
+    margin-bottom: 350px;
 }
